@@ -1,8 +1,10 @@
+# Blitz.js tutorial
+
+[Blitz.jsチュートリアル：投票サービスを15分で作ってみる](https://zenn.dev/rince/articles/c9ba86a07e794f) をやった記録
+
 [![Blitz.js](https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png)](https://blitzjs.com)
 
 This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
-
-# ****name****
 
 ## Getting Started
 
